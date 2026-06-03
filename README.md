@@ -12,3 +12,4 @@ This repository links all my automata theory projects, each focusing on a differ
 | NFA | [nondeterministic-finite-automata](https://github.com/05viktor/nondeterministic-finite-automata) | Nondeterminism, epsilon transitions | Multiple active states, epsilon-closure simulation |
 | PDA | [pushdown-automata](https://github.com/05viktor/pushdown-automata) | Context-free languages, stack operations | Stack-based simulator, escape-room example |
 | Grammar / Eliza | [eliza-grammar-bot](https://github.com/05viktor/eliza-grammar-bot) | Grammar parsing, substitutions, generation | Eliza-style chatbot with grammar-generated responses |
+| TM | [turing-machine](https://github.com/05viktor/turing-machine) | General computation, tape/head model, state transitions | Tape simulation, head movement, step-by-step execution |
